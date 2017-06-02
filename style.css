@@ -29,5 +29,12 @@
   }
   p{
 	  padding-top:15px;
+	  padding-bottom:10px
   }
-  
+  .container-fluid{
+	  padding-top:30px;
+  }
+  img.img-thumbnail{
+	  display: block;
+      margin: auto;
+  }
