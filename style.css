@@ -57,5 +57,9 @@ li a {
     padding: 8px;
     background-color: #dddddd;
 }
+img.img-responsive {
+    margin: 0 auto;
+    width: 100%;
+}
   
   
