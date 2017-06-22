@@ -2,50 +2,38 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
   <url>
     <loc>http://www.demdodo.com/</loc>
-    <lastmod>2017-06-11</lastmod>
-    <changefreq>daily</changefreq>
+    <lastmod>2017-06-18</lastmod>
+    <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>http://www.demdodo.com/review/anytime-fitness</loc>
-    <lastmod>2017-06-11</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>http://www.demdodo.com/reviews</loc>
-    <lastmod>2017-06-11</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
     <loc>http://www.demdodo.com/review/namesilo</loc>
-    <lastmod>2017-06-11</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
+    <lastmod>2017-06-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
   </url>
   <url>
-    <loc>http://www.demdodo.com/promo-codes</loc>
-    <lastmod>2017-06-11</lastmod>
-    <changefreq>daily</changefreq>
+    <loc>http://www.demdodo.com/domain-privacy-necessary</loc>
+    <lastmod>2017-06-18</lastmod>
+    <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>http://www.demdodo.com/coupon/namesilo</loc>
-    <lastmod>2017-06-11</lastmod>
-    <changefreq>daily</changefreq>
+    <lastmod>2017-06-18</lastmod>
+    <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>http://www.demdodo.com/best-domain-registrar-usa</loc>
-    <lastmod>2017-06-11</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
+    <lastmod>2017-06-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://www.demdodo.com/domain-privacy-necessary</loc>
-    <lastmod>2017-06-11</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
+    <loc>http://www.demdodo.com/domain-registrar-free-privacy</loc>
+    <lastmod>2017-06-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
   </url>
 </urlset>
